@@ -1,0 +1,12 @@
+img{
+    width: 100%;
+}
+.welcome-text{
+    padding: 1rem 0;
+    text-transform: uppercase;
+}
+.icon-title{
+    font-size: 5rem;
+    color: #253d64;
+    padding:  1rem 0;
+}
